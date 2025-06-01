@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2><%= "hi im vishal and today is sunday 1st june and im from Telangana India" %></h2>
+<h2><%= "hi im vishal and today is sunday 1st june and im from Telangana" %></h2>
 </body>
 </html>
